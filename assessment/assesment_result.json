@@ -1,0 +1,12 @@
+{
+    "Test Case 1: XProfile Tests - has the correct title": "TEST_STATUS_SUCCESS",
+    "Test Case 2: XProfile Tests - displays a profile picture": "TEST_STATUS_SUCCESS",
+    "Test Case 3: XProfile Tests - shows the correct user name": "TEST_STATUS_SUCCESS",
+    "Test Case 4: XProfile Tests - displays the correct job title": "TEST_STATUS_SUCCESS",
+    "Test Case 5: XProfile Tests - has functioning social media links": "TEST_STATUS_SUCCESS",
+    "Test Case 6: XProfile Tests - menu and settings icons are visible": "TEST_STATUS_SUCCESS",
+    "Test Case 7: XProfile Tests - applies the correct styles to the profile box": "TEST_STATUS_SUCCESS",
+    "Test Case 8: XProfile Tests - has correctly styled menu and setting icons": "TEST_STATUS_SUCCESS",
+    "Test Case 9: XProfile Tests - has a profile picture with the correct styles": "TEST_STATUS_SUCCESS",
+    "Test Case 10: XProfile Tests - ensures social media images have the correct size and are clickable": "TEST_STATUS_SUCCESS"
+}
